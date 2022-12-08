@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AssetMonitoringApplication {
 
 	public static void main(String[] args) {
+		System.out("wells")
 		SpringApplication.run(AssetMonitoringApplication.class, args);
 	}
 
